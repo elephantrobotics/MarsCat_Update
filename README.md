@@ -1,4 +1,27 @@
-# 更新MarsCat
+## Update MarsCat
+You can get resources from [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)
+### Get ready
+- USB-TypeC adapter
+- USB disk
+
+### Step
+- Copy marsai `update.zip` to the ready USB disk.
+- Connect the marscat to the power supply, turn it on, wait for the glasses to light up, and then plug in the USB disk.
+- Minutes later, the marscat will restart, Pull the USB disk out when the marscat's electric motor is relaxed.
+- Delete marsai `update.Zip` for USB disk.
+- Copy `marsai-system.Zip` to USB disk.
+- Restart the marscat, plug in the USB disk when eyes light up.
+- 1-2 minutes later, the marscat's eyes appear USB connection prompt.
+- Then the marscat will restart, pull out the USB disk when the eyes appear boot animation; If the marscat doesn't restart, when the marscat's eyes appear recovery animation, you can pull out the Usb disk.
+- Restart marscat (switching power supply), the update is successful.
+
+
+### If the update fails, please restart the marscat and repeat the above steps.
+
+
+
+## 更新MarsCat
+你可以在 [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)里下载资源
 
 ### 准备
 - USB-TypeC转接器
@@ -17,3 +40,4 @@
 
 
 ### 如果更新失败，请重启猫咪后重复以上步骤
+
